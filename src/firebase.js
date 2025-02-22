@@ -3,9 +3,9 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import { getAuth} from "firebase/auth";
 const firebaseConfig = {
-  apiKey: "AIzaSyDXp9zkFHnjagbxmFdBlg7233zZyagqaNU",
+  apiKey: "",
   authDomain: "fire-auth-a165c.firebaseapp.com",
-  projectId: "fire-auth-a165c",
+  projectId: "",
   storageBucket: "fire-auth-a165c.appspot.com",
   messagingSenderId: "778634667139",
   appId: "1:778634667139:web:0c35c7718d0369d016a7b6",
